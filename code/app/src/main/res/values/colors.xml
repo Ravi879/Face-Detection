@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="loading_indicator">#D81B60</color>
+
+
+    <!--Presto Green-->
+    <color name="prestoPrimary">#00AA8D</color>
+    <color name="prestoLighter">#00BF9A</color>
+    <color name="prestoDarker">#008975</color>
+
+    <!--PictureActivity background-->
+    <color name="background">#E9E0E0</color>
+
+    <!--colors for drawing circles-->
+    <color name="red">#e6194B</color>
+    <color name="yellow">#ffe119</color>
+    <color name="green">#3cb44b</color>
+    <color name="maroon">#800000</color>
+    <color name="pink">#fabebe</color>
+    <color name="orange">#f58231</color>
+    <color name="blue">#4363d8</color>
+    <color name="magenta">#f032e6</color>
+    <color name="lavender">#e6beff</color>
+
+    <color name="light_black">#d1000000</color>
+
+
+
+
+</resources>

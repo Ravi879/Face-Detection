@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Face Detector</string>
+
+    <string name="img_description_sample_image">sample image</string>
+
+    <string name="txt_label_file_name">file name</string>
+
+    <string name="btn_select_image">Select Image</string>
+    <string name="btn_predict">predict</string>
+
+    <string name="desc_bottom_sheet_select_image">Select Image</string>
+
+    <string name="title_activity_picture">Face Detection</string>
+    <string name="title_activity_video">Face Detection</string>
+
+    <string name="menu_item_video_camera">Video</string>
+    <string name="menu_action_switch_camera">Switch Camera</string>
+
+    <string name="permission_phone_rationale">Please allow the permission from the phone setting.</string>
+    <string name="permission_ask_again">Camera and Audio Permission is required for the application. Please allow it.</string>
+
+    <string name="txt_list_item_face_id">Face Id :</string>
+    <string name="txt_list_item_smile_probability">Smile Prob.</string>
+    <string name="txt_list_item_right_eye_open_prob">RightEyeOpen Prob.</string>
+    <string name="txt_list_item_left_eye_open_prob">LeftEyeOpen Prob.</string>
+    <string name="txt_list_item_default">-----</string>
+
+</resources>
