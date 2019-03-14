@@ -2,17 +2,17 @@
 A demo application that used the google's ml kit which detects the faces in image. You can select image from the gallery or use the camera for live face detection in android phone.
 For official documentation, click [here](https://firebase.google.com/docs/ml-kit/android/detect-faces)
 
-- Download apk from [here](https://github.com/Ravi879/Face-Detectioin/raw/master/FaceDetector.apk).
+- Download apk from [here](https://github.com/Ravi879/Face-Detection/raw/master/FaceDetector.apk).
 
 ### Screenshot
-1. [From Gallaery](https://github.com/Ravi879/Face-Detectioin/blob/master/Screenshot/Galaxy%20j7%20Prime%202/from_image.jpg)  <br>
-![Screenshot 1](https://github.com/Ravi879/Face-Detectioin/raw/master/Screenshot/from_image.jpg "")
-2. [From Camera](https://github.com/Ravi879/Face-Detectioin/blob/master/Screenshot/Galaxy%20j7%20Prime%202/live_camera.jpg) <br>
-![Screenshot 2](https://github.com/Ravi879/Face-Detectioin/raw/master/Screenshot/live_camera.jpg "")
+1. [From Gallery](https://github.com/Ravi879/Face-Detection/blob/master/Screenshot/Galaxy%20j7%20Prime%202/from_image.jpg)  <br>
+![Screenshot 1](https://github.com/Ravi879/Face-Detection/raw/master/Screenshot/from_image.jpg "")
+2. [From Camera](https://github.com/Ravi879/Face-Detection/blob/master/Screenshot/Galaxy%20j7%20Prime%202/live_camera.jpg) <br>
+![Screenshot 2](https://github.com/Ravi879/Face-Detection/raw/master/Screenshot/live_camera.jpg "")
 
  #### Quick explanation of repository directory :
-1. [screenshot](https://github.com/Ravi879/Face-Detectioin/tree/master/Screenshot): Sample screenshot from mobile emulator, tablet and real mobile device. 
-2. [code](https://github.com/Ravi879/Face-Detectioin/tree/master/code): The android app code.
+1. [screenshot](https://github.com/Ravi879/Face-Detection/tree/master/Screenshot): Sample screenshot from mobile emulator, tablet and real mobile device.
+2. [code](https://github.com/Ravi879/Face-Detection/tree/master/code): The android app code.
 
 ### Prerequisites
 
@@ -25,7 +25,7 @@ For official documentation, click [here](https://firebase.google.com/docs/ml-kit
 ### Open and Run Project
 1. open android studio, select File -> Import -> "Existing Projects into your workspace".
 2. go to the path where you cloned the Repo: (repoFolder)\code
-3. create firebase datatbase and paste your google-service.json file into app folder.
+3. create firebase database and paste your google-service.json file into app folder.
 4. rebuild the project and run.
 
 ### Built With
@@ -44,8 +44,8 @@ For official documentation, click [here](https://firebase.google.com/docs/ml-kit
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- This project is licensed under the **[MIT license](http://opensource.org/licenses/mit-license.php)**. 
+- This project is licensed under the **[MIT license](http://opensource.org/licenses/mit-license.php)**.
 
 ### Support
 
-Please feel free to submit [issues](https://github.com/Ravi879/Face-Detectioin/issues) with any bugs or other unforeseen issues you experience.
+Please feel free to submit [issues](https://github.com/Ravi879/Face-Detection/issues) with any bugs or other unforeseen issues you experience.
